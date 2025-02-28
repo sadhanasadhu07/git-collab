@@ -1,2 +1,5 @@
 mul()
 div()
+add()
+sub()
+
