@@ -1,1 +1,1 @@
-name: bugfix#1
+name: bugfix#1 is the name
